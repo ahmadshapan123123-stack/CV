@@ -389,20 +389,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadData();
     renderCV(currentData);
 
-    const toggleAdminBtn = document.getElementById('toggle-admin');
-    if (toggleAdminBtn) {
-        toggleAdminBtn.addEventListener('click', () => {
-            document.body.classList.toggle('admin-mode');
-            if (document.body.classList.contains('admin-mode')) {
-                toggleAdminBtn.innerHTML = '<i class="fas fa-eye"></i> View Mode';
-                toggleAdminBtn.classList.replace('bg-slate-800', 'bg-emerald-600');
-            } else {
-                toggleAdminBtn.innerHTML = '<i class="fas fa-cog"></i> Edit Mode';
-                toggleAdminBtn.classList.replace('bg-emerald-600', 'bg-slate-800');
-            }
-        });
-    }
-
+    
     const closeModalBtn = document.getElementById('close-modal');
     if (closeModalBtn) closeModalBtn.addEventListener('click', closeEditor);
 
