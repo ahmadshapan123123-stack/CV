@@ -14,7 +14,7 @@ const cvData = {
         { name: "Portfolio", url: "https://ahmadshapan123123-stack.github.io/Portfolio", icon: "fas fa-briefcase" }
     ],
     // Professional Philosophy
-    summary: "Senior WordPress Engineer specializing in high-performance digital architectures and custom system development. Expert in building scalable, plugin-based solutions and advanced Elementor implementations that merge technical depth with aesthetic precision. Proven track record in transforming complex business requirements into robust, user-centric web applications.",
+    summary: "A versatile multidisciplinary professional with a journalistic background, focused on creating authoritative content and strategic narratives. I combine high-level writing and linguistic expertise with technical skills in design, montage, and WordPress to provide integrated digital solutions that strengthen brand identity and ensure creative excellence across multiple platforms.",
     // Professional Focus
     coreSkills: [
         { name: "Content Strategy", level: "95%" },
