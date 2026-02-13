@@ -9,8 +9,9 @@ const cvData = {
         image: "assets/profile.jpg"
     },
     socials: [
-        // { name: "Facebook", url: "https://web.facebook.com/ahmad.shaban204", icon: "fab fa-facebook-f" },
-        // { name: "LinkedIn", url: "#", icon: "fab fa-linkedin-in" }
+        { name: "LinkedIn", url: "https://www.linkedin.com/in/ahmad-el-kashif-4858933b0/", icon: "fab fa-linkedin-in" },
+        { name: "WhatsApp", url: "https://wa.me/201021855103", icon: "fab fa-whatsapp" },
+        { name: "Portfolio", url: "https://ahmadshapan123123-stack.github.io/Portfolio", icon: "fas fa-briefcase" }
     ],
     // Professional Philosophy
     summary: "Senior WordPress Engineer specializing in high-performance digital architectures and custom system development. Expert in building scalable, plugin-based solutions and advanced Elementor implementations that merge technical depth with aesthetic precision. Proven track record in transforming complex business requirements into robust, user-centric web applications.",
