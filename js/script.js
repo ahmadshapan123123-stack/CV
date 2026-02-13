@@ -105,13 +105,13 @@ const renderCV = (data) => {
 
     // Footer Socials
     setSafeHTML('footer-socials', `
-        <div class="flex justify-center gap-4 mb-6 relative">
+        <div class="flex justify-center gap-6 mb-8 relative">
             ${data.socials.map(social => `
                 <a href="${social.url}" target="_blank" class="social-icon-link" title="${social.name}">
                     <i class="${social.icon}"></i>
                 </a>
             `).join('')}
-            <div class="edit-trigger" style="right: -20px;" onclick="openSectionEditor('socials')"><i class="fas fa-pen"></i></div>
+            <div class="edit-trigger" style="right: -25px; top: -5px;" onclick="openSectionEditor('socials')"><i class="fas fa-pen"></i></div>
         </div>
     `);
 
