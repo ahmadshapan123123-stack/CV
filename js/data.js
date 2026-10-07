@@ -1,4 +1,5 @@
 const cvData = {
+    version: 2,
     personalInfo: {
         name: "AHMAD SHAPAN",
         title: "Copywriter & Content Strategist",
