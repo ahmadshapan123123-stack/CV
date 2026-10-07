@@ -75,14 +75,27 @@ const cvData = {
     freelance: [
         {
             title: "News Editor & Video Journalist",
-            company: "EYON ELMAGLES & Independent Media",
+            company: "EYON ELMAGLES & Sayf Al-Umma Newspaper",
             period: "2022 - PRESENT",
             tasks: [
                 "Generating reliable news content and producing professional video reports with journalistic integrity.",
-                "Handling the full production cycle from research and writing to creative video montage."
+                "Handling the full production cycle from research and writing to creative video montage.",
+                "Writing and editing news reports for Sayf Al-Umma newspaper, covering political and social affairs."
             ],
             badgeColor: "text-amber-600",
             borderColor: "border-amber-50"
+        },
+        {
+            title: "WordPress Website Designer",
+            company: "Deltawy Company & Independent Clients",
+            period: "2022 - PRESENT",
+            tasks: [
+                "Designing and building responsive WordPress websites for Deltawy Company and independent clients across editorial, corporate, and e-commerce sectors.",
+                "Delivering complete website setup, from layout and UX structure to Elementor Pro implementation and on-page optimization.",
+                "Maintaining client websites to ensure performance, technical stability, and consistent brand presentation."
+            ],
+            badgeColor: "text-blue-600",
+            borderColor: "border-blue-50"
         },
         {
             title: "Linguistic Auditor & Layout Specialist",
