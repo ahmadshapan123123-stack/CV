@@ -14,7 +14,7 @@ const cvData = {
         { name: "Portfolio", url: "https://ahmadshapan123123-stack.github.io/Portfolio", icon: "fas fa-briefcase" }
     ],
     // Professional Philosophy
-    summary: "Creative Copywriter & Content Strategist with a strong foundation in digital media and marketing. Skilled in crafting compelling narratives, persuasive copy, and content strategies that drive engagement and brand growth. Experienced in producing high-quality written and visual content across multiple platforms, combining creativity with strategic thinking to deliver impactful marketing communications.",
+    summary: "A versatile multidisciplinary professional with a journalistic background, focused on creating authoritative content and strategic narratives. I combine high-level writing and linguistic expertise with technical skills in design, montage, and WordPress to provide integrated digital solutions that strengthen brand identity and ensure creative excellence across multiple platforms.",
     // Professional Focus
     coreSkills: [
         { name: "Content Strategy", level: "95%" },
@@ -35,19 +35,10 @@ const cvData = {
     ],
     experience: [
         {
-            title: "Copywriter",
-            company: "Azrak",
-            url: "",
-            period: "May 2025 - PRESENT",
-            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
-            type: "full-time",
-            badgeColor: "text-blue-400 bg-blue-50"
-        },
-        {
             title: "WordPress Developer",
             company: "PUIUX Company",
             url: "http://puiux.com/",
-            period: "2025 - PRESENT",
+            period: "2025 - May 2026",
             description: "Developing functional and visually appealing WordPress websites tailored for editorial needs, ensuring technical stability and performance.",
             type: "full-time",
             badgeColor: "text-blue-400 bg-blue-50"
@@ -56,10 +47,19 @@ const cvData = {
             title: "Content Specialist",
             company: "PUIUX Company",
             url: "http://puiux.com/",
-            period: "2025 - PRESENT",
+            period: "2025 - May 2026",
             description: "Managing comprehensive content strategies, creating visual assets, and producing high-quality video reports while maintaining linguistic and SEO standards.",
             type: "full-time",
             badgeColor: "text-blue-600 bg-blue-50"
+        },
+        {
+            title: "Copywriter",
+            company: "Azrak",
+            url: "",
+            period: "May 2025 - PRESENT",
+            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
+            type: "full-time",
+            badgeColor: "text-blue-400 bg-blue-50"
         },
         {
             title: "SEO Specialist",
