@@ -10,8 +10,9 @@ const loadData = () => {
             // Schema validation: check if new fields exist
             const requiredFields = ['creativeArsenal', 'coreSkills', 'freelance', 'socials'];
             const hasAllFields = requiredFields.every(field => currentData[field] !== undefined);
+            const hasMatchingVersion = currentData.version === cvData.version;
 
-            if (!hasAllFields) {
+            if (!hasAllFields || !hasMatchingVersion) {
                 console.warn('Schema mismatch detected. Resetting to default data.');
                 localStorage.removeItem('cv_data');
                 currentData = JSON.parse(JSON.stringify(cvData));
