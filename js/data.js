@@ -39,7 +39,7 @@ const cvData = {
             company: "Azrak",
             url: "",
             period: "May 2025 - PRESENT",
-            description: "Crafting compelling copy for marketing campaigns, brand communications, and digital content. Developing creative concepts and persuasive messaging that drives engagement and supports business objectives.",
+            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
             type: "full-time",
             badgeColor: "text-blue-400 bg-blue-50"
         },
