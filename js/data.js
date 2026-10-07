@@ -56,7 +56,7 @@ const cvData = {
             title: "Copywriter",
             company: "Azrak",
             url: "",
-            period: "May 2025 - PRESENT",
+            period: "May 2026 - PRESENT",
             description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
             type: "full-time",
             badgeColor: "text-blue-400 bg-blue-50"
