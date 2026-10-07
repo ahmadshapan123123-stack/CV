@@ -36,7 +36,7 @@ const cvData = {
     ],
     experience: [
         {
-            title: "Copywriter",
+            title: "Copywriter & Content Creator",
             company: "Azrak",
             url: "https://azzrk.com/",
             period: "May 2026 - PRESENT",
