@@ -35,6 +35,15 @@ const cvData = {
     ],
     experience: [
         {
+            title: "Copywriter",
+            company: "Azrak",
+            url: "https://azzrk.com/",
+            period: "May 2026 - PRESENT",
+            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
+            type: "full-time",
+            badgeColor: "text-blue-400 bg-blue-50"
+        },
+        {
             title: "WordPress Developer",
             company: "PUIUX Company",
             url: "http://puiux.com/",
@@ -51,15 +60,6 @@ const cvData = {
             description: "Managing comprehensive content strategies, creating visual assets, and producing high-quality video reports while maintaining linguistic and SEO standards.",
             type: "full-time",
             badgeColor: "text-blue-600 bg-blue-50"
-        },
-        {
-            title: "Copywriter",
-            company: "Azrak",
-            url: "",
-            period: "May 2026 - PRESENT",
-            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
-            type: "full-time",
-            badgeColor: "text-blue-400 bg-blue-50"
         },
         {
             title: "SEO Specialist",
