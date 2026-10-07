@@ -1,8 +1,8 @@
 const cvData = {
     personalInfo: {
         name: "AHMAD SHAPAN",
-        title: "Senior WordPress Engineer & System Architect",
-        birthday: "September 2, 1998", // Not explicitly in the HTML but used in old structure
+        title: "Copywriter & Content Strategist",
+        birthday: "September 2, 1998",
         phone: "01021855103",
         email: "ahmadshapan123123@gmail.com",
         location: "El-Mahalla El-Kobra, Egypt",
@@ -14,7 +14,7 @@ const cvData = {
         { name: "Portfolio", url: "https://ahmadshapan123123-stack.github.io/Portfolio", icon: "fas fa-briefcase" }
     ],
     // Professional Philosophy
-    summary: "Senior WordPress Engineer specializing in high-performance digital architectures and custom system development. Expert in building scalable, plugin-based solutions and advanced Elementor implementations that merge technical depth with aesthetic precision. Proven track record in transforming complex business requirements into robust, user-centric web applications.",
+    summary: "Creative Copywriter & Content Strategist with a strong foundation in digital media and marketing. Skilled in crafting compelling narratives, persuasive copy, and content strategies that drive engagement and brand growth. Experienced in producing high-quality written and visual content across multiple platforms, combining creativity with strategic thinking to deliver impactful marketing communications.",
     // Professional Focus
     coreSkills: [
         { name: "Content Strategy", level: "95%" },
@@ -34,6 +34,15 @@ const cvData = {
         { name: "English", level: "Professional" }
     ],
     experience: [
+        {
+            title: "Copywriter",
+            company: "Azrak",
+            url: "",
+            period: "May 2025 - PRESENT",
+            description: "Crafting compelling copy for marketing campaigns, brand communications, and digital content. Developing creative concepts and persuasive messaging that drives engagement and supports business objectives.",
+            type: "full-time",
+            badgeColor: "text-blue-400 bg-blue-50"
+        },
         {
             title: "WordPress Developer",
             company: "PUIUX Company",
