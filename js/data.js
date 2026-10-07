@@ -1,8 +1,8 @@
 const cvData = {
     personalInfo: {
         name: "AHMAD SHAPAN",
-        title: "Senior WordPress Engineer & System Architect",
-        birthday: "September 2, 1998", // Not explicitly in the HTML but used in old structure
+        title: "Copywriter & Content Strategist",
+        birthday: "September 2, 1998",
         phone: "01021855103",
         email: "ahmadshapan123123@gmail.com",
         location: "El-Mahalla El-Kobra, Egypt",
@@ -38,7 +38,7 @@ const cvData = {
             title: "WordPress Developer",
             company: "PUIUX Company",
             url: "http://puiux.com/",
-            period: "2025 - PRESENT",
+            period: "2025 - May 2026",
             description: "Developing functional and visually appealing WordPress websites tailored for editorial needs, ensuring technical stability and performance.",
             type: "full-time",
             badgeColor: "text-blue-400 bg-blue-50"
@@ -47,10 +47,19 @@ const cvData = {
             title: "Content Specialist",
             company: "PUIUX Company",
             url: "http://puiux.com/",
-            period: "2025 - PRESENT",
+            period: "2025 - May 2026",
             description: "Managing comprehensive content strategies, creating visual assets, and producing high-quality video reports while maintaining linguistic and SEO standards.",
             type: "full-time",
             badgeColor: "text-blue-600 bg-blue-50"
+        },
+        {
+            title: "Copywriter",
+            company: "Azrak",
+            url: "",
+            period: "May 2025 - PRESENT",
+            description: "Writing advertising scripts for marketing campaigns and UX copy for digital platforms. Crafting compelling narratives, persuasive ad copy, and user-centered content that drives engagement and supports brand communication objectives.",
+            type: "full-time",
+            badgeColor: "text-blue-400 bg-blue-50"
         },
         {
             title: "SEO Specialist",
